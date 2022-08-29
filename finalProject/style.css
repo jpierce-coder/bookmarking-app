@@ -5,7 +5,7 @@ body, .jumbotron {
 body {
     background-image: url('./img/mountains.jpg');
     background-size: cover;
-}
+};
 
 .floater {
     background: #fff;
