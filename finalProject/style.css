@@ -1,0 +1,35 @@
+body, .jumbotron {
+    padding: 30px;
+};
+
+body {
+    background-image: url('./img/mountains.jpg');
+    background-size: cover;
+}
+
+.floater {
+    background: #fff;
+    font-size: 19px;
+    line-height: 1.5;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.floater input[type=text] {
+    padding: 30px 20px;
+    border: none;
+    box-shadow: none;
+    font-size: 14px;
+}
+
+.floater-bottom {
+    padding: 6px 10px 8px;
+    text-align: right;
+    border-top: 1px solid #ddd;
+}
+
+.floater-bottom button {
+    padding: 4px 8px;
+    font-size: 10px;
+}
